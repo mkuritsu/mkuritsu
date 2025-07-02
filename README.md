@@ -7,6 +7,7 @@ kuritsu@github:~$ sudo rm -rf --no-preserve-root /
 - 1st year Msc computer science and engineering student.
 - Interested in distributed systems, cyber security, low level stuff and game engines.
 - Doing my master in distributed systems and cyber-security.
+- Happy NixOS user (btw)
 
 <br>
 
