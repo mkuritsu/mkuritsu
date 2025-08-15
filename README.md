@@ -32,3 +32,4 @@ kuritsu@github:~$ sudo rm -rf --no-preserve-root /
 
 - Discord: mkuritsu
 - Twitter: [@mkuritsuu](https://x.com/mkuritsuu)
+- Matrix: @mkuritsu:matrix.org
