@@ -4,16 +4,15 @@ kuritsu@github:~$ sudo rm -rf --no-preserve-root /
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=2000&pause=1000&color=7573F0&width=435&lines=%F0%9F%91%8B+Welcome+to+my+profile" alt="Typing SVG"/>
 
-- 1st year Msc computer science and engineering student.
-- Interested in distributed systems, cyber security, low level stuff and game engines.
-- Doing my master in distributed systems and cyber-security.
-- Happy NixOS user (btw)
+- 2nd year Msc computer science and engineering student.
+- Interested in distributed systems, cyber security and all things software.
+- Happy Linux user (btw)
 
 <br>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=2000&pause=1000&color=7573F0&width=435&lines=Main+languages+I+have+used" alt="Typing SVG"/>
 
-![](https://skillicons.dev/icons?i=java,cpp,rust,c,cs,python,ts,js,html,css)
+![](https://skillicons.dev/icons?i=java,cpp,rust,c,python,ts,js)
 
 <br>
 
@@ -30,6 +29,5 @@ kuritsu@github:~$ sudo rm -rf --no-preserve-root /
 
 <img align="right" src="https://lanyard.kyrie25.dev/api/343915488562380803?useDisplayName=true&gradient=7573F0"/>
 
-- Discord: mkuritsu
+- Discord: [mkuritsu](https://discord.com/users/343915488562380803)
 - Twitter: [@mkuritsuu](https://x.com/mkuritsuu)
-- Matrix: @mkuritsu:matrix.org
